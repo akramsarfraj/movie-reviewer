@@ -20,8 +20,10 @@ Endpoint : http://localhost:8080/movies
 ## Add Reviews 
 Endpoint : http://localhost:8080/movies/{movieId}/reviews
 
-![Uploading add review.png…]()
+![add review](https://github.com/user-attachments/assets/fb8356e1-9da3-4067-aeeb-dd1cfd3ad188)
 
 
 ## Update Reviews
 Endpoint : http://localhost:8080/reviews/{reviewId}
+
+![update Review](https://github.com/user-attachments/assets/6789e336-1cdb-4e64-960b-7d74f3ad0816)
