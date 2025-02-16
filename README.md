@@ -1,4 +1,4 @@
-Steps to run in your machine
+##Steps to run in your machine
 Clone the Repo
 
 Open your project with your favorite ide (IntelliJ IDEA,Eclipse)
